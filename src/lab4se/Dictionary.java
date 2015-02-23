@@ -11,6 +11,6 @@ package lab4se;
  */
 public interface Dictionary {
     
-    void getDefinition(String word);
+    String getDefinition(String word);
    
 }
